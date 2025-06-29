@@ -14,8 +14,8 @@ export default {
     data() {
         return {
             myImagePizza: require('@/assets/pizza.png'),
-            label: 'Pizza',
-            attributes: 'Italienische, Fettarm'
+            label: 'Sushi-Rolls',
+            attributes: 'Frische, Vegan, Fettarm'
         }
     },
 }
