@@ -17,5 +17,7 @@ header {
     padding: 16px;
     display: flex;
     align-items: flex-end;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
 }
 </style>
